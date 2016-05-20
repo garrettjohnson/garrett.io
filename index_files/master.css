@@ -1,0 +1,76 @@
+/* BASE STRUCTURE */
+
+@font-face{
+	font-family:'CooperHewitt';
+	src:url("../assets/fonts/CooperHewitt/CooperHewitt-Book.eot");
+	src:url("../assets/fonts/CooperHewitt/CooperHewitt-Book.eot?#iefix") format("embedded-opentype"),
+	url("../assets/fonts/CooperHewitt/CooperHewitt-Book.woff") format("woff"),
+	url("../assets/fonts/CooperHewitt/CooperHewitt-Book.svg#webfont") format("svg")
+	}
+
+body {
+	font-family: 'CooperHewitt', 'Helvetica', 'Arial', sans-serif;
+	background-color: #fff;
+	color: #000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+section#card {
+	position: absolute;
+	bottom: 20%;
+	left: 12%;
+	height: 100px;
+}
+
+h1, h1 a:link {
+	font-size: 22px;
+	font-weight: 400;
+	margin-bottom:0;
+}
+
+h1 a:hover {
+	color: #ff0000;
+}
+
+h2 {
+	margin-top: 8px;
+	font-size: 17px;
+	font-weight: 100;
+	line-height: 22px;
+	max-width: 400px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 27px;
+}
+
+ul li {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 3px;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+	color: #000;
+	border: none;
+	text-decoration: none;
+
+	font-weight: 100;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+ul a {
+	font-size: 14px;
+	line-height: 19px;
+}
