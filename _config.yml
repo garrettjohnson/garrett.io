@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    true
 show_social_icons:    false
@@ -104,5 +104,5 @@ paginate:     4
 paginate_path: "/blog/page:num/"
 sass:
   compressed: true
-gems: ["jekyll-paginate", "jekyll-sitemap"]
+gems: ["jekyll-paginate", "jekyll-sitemap", "jekyll-redirect-from"]
 exclude: [vendor]
