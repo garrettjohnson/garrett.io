@@ -13,6 +13,6 @@ You can find me on [Twitter](https://twitter.com/neverarriving), on [GitHub](htt
 
 Currently I run digital properties for [NorthPointe Church](https://www.northpointe.org/), and support [Ministry Ops](http://ministryops.com) a SaaS startup I founded.
 
-I’ve also done work for happy clients and friends like [Sidehugs](http://sidehugs.com), a occasionally hilarious relationship blog, and [Johnson Air](https://johnsonair.net/) a [Fresno air conditioning](https://johnsonair.net/what-we-do/) company.
+I’ve also done work for happy clients and friends like [Johnson Air](https://johnsonair.net/) a [Fresno air conditioning](https://johnsonair.net/what-we-do/) company.
 
 Want to chat? Feel free to email me. [hi@garrett.io](mailto:hi@garrett.io)
